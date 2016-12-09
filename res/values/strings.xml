@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="self_permission_name">TestPermission</string>
+</resources>
